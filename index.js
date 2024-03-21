@@ -1,6 +1,3 @@
-
-
-
 const apiKey="067f101bedf66ee30271785fc9921383";
 const apiUrl="https://api.openweathermap.org/data/2.5/weather?&units=metric&q=";
 
@@ -48,6 +45,3 @@ button.addEventListener("click",()=>{
     checkWeather(input.value);
     
 });
-
-
-   
